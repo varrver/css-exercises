@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.yes {
+    background-color: #222222;
+    color: #ffffff;
+}
+
+.no {
+    background-color: #fae278;
+}
+
+.yes,
+.no {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
